@@ -6,7 +6,7 @@ Uma linguagem versátil surgiu a partir da necessidade de um programa que auxili
  - Estatística, análise de dados e pesquisa científica.
  - Uma das linguagens mais populares usadas por estatísticos, analistas de dados, pesquisadores e profissionais de marketing para recuperar, limpar, analisar, visualizar e apresentar dados.
  
-## Qual proposta aqui?
+## Qual a proposta aqui?
 -  Desenvolvimento e aperfeiçoamento de técnicas de probalidades estatística, visão análitica, análise de dados e pesquisa científica.
 -  Desafios 
 -  Web
