@@ -1,4 +1,4 @@
-#Graficos..
+#Graficos...
 
 #dataset/conjunto de dados
 ?mtcars
