@@ -1,3 +1,4 @@
+#operador logico 
 x = TRUE
 y = FALSE
 
