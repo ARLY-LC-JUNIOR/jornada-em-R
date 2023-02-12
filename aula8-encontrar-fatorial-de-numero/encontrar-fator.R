@@ -1,4 +1,4 @@
-# obter entrada do usuário
+# obter entrada do usuário.
 num = as.integer(readline(prompt="Enter a number: "))
 factorial = 1
 # verifique se o número é negativo, positivo ou zero
