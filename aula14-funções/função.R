@@ -1,5 +1,5 @@
 # O R já vem com várias funções instaladas e, com elas,
-#podemos executar muitas tarefas.
+#podemos executar muitas tarefas!
 #Criando a função
 par.impar <- function(3){ # nolint
    if((num %% 2) == 0) {
