@@ -1,0 +1,1 @@
+hist(carros$mpg)
