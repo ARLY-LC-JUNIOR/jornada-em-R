@@ -1,4 +1,4 @@
-#operadores diversos. vetores. 
+#operadores diversos. ! 
 
 vetor1 = 1 : 10
 vetor2 = 1 : 10
