@@ -1,4 +1,4 @@
-# Variaveis e tipos de dados
+# Variaveis e tipos de dados.
 msg              = "Hello World Olá Mundo" #carater string
 bool             = TRUE # Boolean
 numero           = 2 # nemeric
