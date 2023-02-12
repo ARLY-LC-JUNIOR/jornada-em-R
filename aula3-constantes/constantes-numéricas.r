@@ -1,3 +1,4 @@
+#constante. 
 x <- -5
 if (x > 0) {
 print("Non-negative number")
