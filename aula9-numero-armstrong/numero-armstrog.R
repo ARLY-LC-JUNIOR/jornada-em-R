@@ -1,4 +1,4 @@
-# take input from the user
+# take input from the user.
 num = as.integer(readline(prompt="Enter a number: "))
 # initialize sum
 sum = 0
